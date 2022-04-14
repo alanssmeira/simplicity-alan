@@ -1,0 +1,133 @@
+================= INDEX.HTML ====================
+
+
+**DESTAQUE**
+
+<h2>HTML & CSS & JS</h2>
+<p>A porta de entrada para o desenvolvimento web</p>
+
+
+
+
+**FRONT-END**
+<h2>Desenvolvedor Front-End</h2>
+<p>O desenvolvedor Front-End é o profissional que cuida da parte do código que é interpretada diretamente pelo navegador.</p>
+<p>No desenvolvimento por camadas, HTML é o responsável pela marcação de conteúdo, o CSS cuida do estilo visual e o JavaScript é o responsável pelo comportamento.</p>
+
+<figure>
+    <img src="imagens/linguagens.png" alt="">
+</figure>
+
+
+
+
+**HISTÓRIA**
+<h2>História da Internet</h2>
+<iframe height="315" src="https://www.youtube.com/embed/jlkvzcG1UMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+**LOCALIZAÇÃO**
+<h2>Localização</h2>
+<p>
+    Rua Francisco Coimbra, 403 - Penha de França
+    <br>
+    São Paulo/SP - CEP 03639-000
+    <br>
+    <a href="tel:1121350300">11-2135-0300</a> 
+</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.1759065861984!2d-46.54243608567371!3d-23.52617478470039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5e45de28bb23%3A0x1d2ed3122aae28a7!2sSenac%20Penha!5e0!3m2!1spt-BR!2sbr!4v1612461222101!5m2!1spt-BR!2sbr" height="450" frameborder="0" style="width:100%; border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+
+
+
+
+**RODAPÉ**
+<p>Simplicity é um site fictício desenvolvido educacionalmente
+<br>Senac Penha - 2022 </p>
+
+
+
+=================== PRODUTOS.HTML =====================
+<h2>Produtos</h2>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa est exercitationem sed delectus aliquid reiciendis, commodi repudiandae cupiditate, perspiciatis, debitis voluptatem ex necessitatibus. Consequatur quo quia, sequi eius officiis eligendi?</p>
+<p>Officiis vitae, provident excepturi aperiam, nemo adipisci corrupti voluptatum delectus, nulla maiores dignissimos tempora minus cumque. Culpa suscipit voluptate, cumque repellendus accusamus aperiam impedit! Vitae dolor consectetur doloremque consequatur laborum!</p>
+<p>Voluptates libero, harum commodi ipsam obcaecati vitae unde voluptate possimus eveniet suscipit quibusdam, totam, itaque ipsum hic id natus accusamus. Exercitationem mollitia expedita esse reprehenderit, corporis ducimus cupiditate veniam a.</p>
+<p>Quod nostrum est quaerat ducimus, ipsum odio rem in minus eos quibusdam modi quo eligendi nesciunt corporis, praesentium commodi alias eius unde error explicabo beatae cumque! Voluptates rem aspernatur magni.</p>
+
+
+<table>
+    <caption>
+        O que desenvolvemos
+    </caption>
+
+    <tr>
+        <th>Produto</th>
+        <th>Prazo de Entrega</th>
+        <th>Valor aproximado</th>
+    </tr>
+
+    <tr>
+        <td>Website</td>
+        <td>30 dias</td>
+        <td>1.500,00</td>
+    </tr>
+
+    <tr>
+        <td>Loja Virtual</td>
+        <td>30 dias</td>
+        <td>1.800,00</td>
+    </tr>
+
+    <tr>
+        <td>Game</td>
+        <td>60 dias</td>
+        <td>2.500,00</td>
+    </tr>
+
+    <tr>
+        <td>aplicativo</td>
+        <td>60 dias</td>
+        <td>3.000,00</td>
+    </tr>
+</table>
+
+
+
+
+=============== SERVIÇOS.HTML ====================
+
+<h2>Serviços</h2>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
+<p>Ea possimus aut facilis incidunt natus dolorem accusantium impedit expedita cupiditate voluptatum doloremque, sint esse voluptatem voluptate quasi fugit minus eos. Perspiciatis, excepturi ipsam fuga asperiores ducimus dolores quam. Tempore!</p>
+<p>Incidunt illum, voluptatem reprehenderit quibusdam minus temporibus rem fugiat odit earum ipsum ratione excepturi quasi fugit suscipit libero, recusandae repellat culpa. Aspernatur natus omnis ad aperiam magnam suscipit, praesentium quasi.</p>
+
+<figure>
+    <a href="imagens/desenvolvimento-web.jpg">
+        <img src="imagens/desenvolvimento-web-mini.jpg" alt="">
+    </a>
+    <a href="imagens/design-grafico.jpg">
+        <img src="imagens/design-grafico-mini.jpg" alt="">
+    </a>
+    <a href="imagens/marketing-digital.jpg">
+        <img src="imagens/marketing-digital-mini.jpg" alt="">
+    </a>
+    <a href="imagens/consultoria-treinamento.jpg">
+        <img src="imagens/consultoria-treinamento-mini.jpg" alt="">
+    </a>
+</figure>
+
+
+
+
+=============== CONTATO.HTML ===================
+
+<h2>Contato</h2>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum, maxime et consequatur architecto perspiciatis impedit ullam. Facilis sapiente magni accusantium consectetur qui omnis, consequatur autem iusto sunt tenetur id!</p>
+
+<p>Incidunt illum, voluptatem reprehenderit quibusdam minus temporibus rem fugiat odit earum ipsum ratione excepturi quasi fugit suscipit libero, recusandae repellat culpa. Aspernatur natus omnis ad aperiam magnam suscipit, praesentium quasi.</p>
