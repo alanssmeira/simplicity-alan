@@ -74,5 +74,18 @@ textMensagem.addEventListener("input", function(){
     // Adicionando a contagem ao elemento HTML
     bCaracteres.textContent = contagem;
 
+    /* DESAFIO
+    se for 0, vermelho
+    senão, preto */
+
+    // == É COMPARAÇÃO, apenas um = é atribuição
+    if (contagem == 0) {
+        bCaracteres.style.color = "red";
+        textMensagem.style.boxShadow = "red 0 0 10px"
+    } else {
+        bCaracteres.style.color = "black";
+        textMensagem.style.boxShadow = "black 0 0 10px"
+        
+    }
 
 });
