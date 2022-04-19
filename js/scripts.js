@@ -46,3 +46,9 @@ botaoLocalizar.addEventListener("click", function(event){
             })
 
 })
+
+
+/* LIB VanillaMasker:
+https://github.com/vanilla-masker/vanilla-masker */
+VMasker(inputCep).maskPattern("99999-999");
+VMasker(inputTelefone).maskPattern("(99) 9999-9999");
